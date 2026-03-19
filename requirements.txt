@@ -1,0 +1,8 @@
+pymysql
+sqlalchemy
+pandas
+neo4j
+prophet
+streamlit
+dashscope
+langchain-community
