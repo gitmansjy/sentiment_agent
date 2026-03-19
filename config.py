@@ -11,7 +11,7 @@ DB_CONFIG = {
 }
 
 # 通义千问API密钥
-DASHSCOPE_API_KEY = 'sk-c5f85b787a954210a04b8fe8f9481ee2'  # 替换为您的密钥
+DASHSCOPE_API_KEY = '替换为您的密钥'  # 替换为您的密钥
 
 # Neo4j图数据库配置（可选）
 NEO4J_CONFIG = {
